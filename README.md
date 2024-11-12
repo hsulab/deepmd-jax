@@ -1,5 +1,7 @@
 # Deepmd-JAX
 
+**Heads up! New version scheduled to release soon! Check out the branch `staging`**
+
 Supports Deep Potential, Deep Wannier, and Long Range (DPLR) models. Also, try the Deep Potential Message Passing (DP-MP) model for more accuracy. 
 
 ## Installation
